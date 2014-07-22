@@ -8,6 +8,8 @@ tags: [code, example, data]
 
 ## Adapted PigMix Scripts
 
+ * [pigmix_scripts.tgz](https://dl.dropboxusercontent.com/u/3748734/pigmix_scripts.tgz)
+
 ## Manual Partitioning Examples
 
 ## PigOut-generated scripts and workflows
