@@ -35,6 +35,13 @@
 </div>
 
 <div id="index">
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
+</article>
+    <!--
   <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
   {% for post in site.posts limit:5 %}    
   <article>
@@ -46,6 +53,7 @@
     {% endif %}
   </article>
   {% endfor %}
+  -->
 </div><!-- /#index -->
 
 <div class="footer-wrap">
