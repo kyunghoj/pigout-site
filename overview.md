@@ -10,9 +10,5 @@ text
 
 ## Motivation
 
-text 
-To graduate...
+motivation 
 
-## Model
-
-text
