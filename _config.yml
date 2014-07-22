@@ -1,4 +1,5 @@
-title:            PigOut
+#title:            "PigOut Distributed System" 
+title:            "Home" 
 description:      Making Multiple Hadoop Clusters to Work Together
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
