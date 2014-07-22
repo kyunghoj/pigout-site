@@ -39,8 +39,10 @@ bing_verify:
 links:
   - title: Overview
     url: /overview/
-  - title: Examples
-    url: /examples/
+  - title: Members
+    url: /members/
+  - title: Downloads
+    url: /downloads/
   - title: Publications
     url: /pubs/
 #  - title: Made Mistakes
