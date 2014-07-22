@@ -1,9 +1,10 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+description: "PigOut is a system for making multiple Hadoop clusters work together."
+tags: [PigOut, Hadoop, MapReduce, hybrid clouds, Pig, Big data]
 ---
+
+PigOut
+===
+
+PigOut is a system for ...

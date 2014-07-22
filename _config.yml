@@ -1,14 +1,15 @@
 title:            PigOut
 description:      Making Multiple Hadoop Clusters to Work Together
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+#url:              http://localhost:4000
+url:              http://kyunghoj.github.io/pigout-site
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  name:           PigOut
+  avatar:         ub-small.png
+  bio:            "Making Multiple Hadoop Clusters Work Together"
   email:          kyunghoj@buffalo.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
@@ -35,12 +36,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
+  - title: Overview
+    url: /overview/
   - title: Examples
     url: /examples/
   - title: Publications
-    url: /Publications/
+    url: /pubs/
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
