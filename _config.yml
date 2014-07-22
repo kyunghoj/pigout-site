@@ -3,7 +3,7 @@ title:            "Home"
 description:      Making Multiple Hadoop Clusters to Work Together
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:              http://kyunghoj.github.io/pigout-site
+url:              http://pigout.cse.buffalo.edu
 disqus_shortname:
 
 # Owner/author information
