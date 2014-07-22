@@ -15,3 +15,5 @@ To learn more about PigOut you can:
 
  * Read the [overview](/overview/)
  * Download our [publications](pubs)
+
+PigOut is being developed at University at Buffalo.
